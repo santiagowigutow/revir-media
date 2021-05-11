@@ -1,0 +1,34 @@
+/*PALETA DE COLORES
+.colores {
+    color: #173db5;
+    color: #0375c4;
+    color: #46e3f5;
+    color: #bdf8ff;
+    color: #fffde1;
+}
+*/
+/*INDEX*/
+body {
+  height: auto;
+  width: auto; }
+
+.videoInicio {
+  height: 450px;
+  width: 450px; }
+
+.logoFooter {
+  height: 350px;
+  width: 350px; }
+
+.marginTop {
+  margin-top: 180px; }
+
+.bgInicio {
+  background-color: #46e3f5;
+  width: 100%; }
+
+.bgNosotros {
+  background-color: #bdf8ff; }
+
+.bgFooter {
+  background-color: #fffde1; }

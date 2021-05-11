@@ -1,0 +1,58 @@
+$azulprincipal:#173db5;
+
+.logoMenu {
+    margin-top: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+.mainMenu {
+    width: 90%;
+    height: 10%;
+    position: absolute;
+    top: 0px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    
+
+ a{
+    color: black;
+    text-decoration: none;
+}
+
+ ul {
+    list-style: none;
+    font-size: 0;
+    margin-bottom: 50px;
+}
+
+ li {
+    display: inline-block;
+    width: 15%;
+    position: relative;
+    font-size: 16px;
+    
+}
+
+
+ ul li{
+    display: inline-block;
+}
+
+ ul ul{
+    position: absolute;
+    display: none;
+
+}
+
+ ul ul li{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+ ul li:hover ul{
+    display: block;
+}
+}
