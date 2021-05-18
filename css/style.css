@@ -13,15 +13,21 @@ body {
   width: auto; }
 
 .videoInicio {
-  height: 450px;
-  width: 450px; }
+  height: 85%;
+  width: 85%; }
 
 .logoFooter {
-  height: 350px;
-  width: 350px; }
+  height: 85%;
+  width: 85%;
+  border-radius: 25%; }
 
 .marginTop {
   margin-top: 180px; }
+
+.logo {
+  height: 90%;
+  width: 90%;
+  border-radius: 25%; }
 
 .bgInicio {
   background-color: #46e3f5;
